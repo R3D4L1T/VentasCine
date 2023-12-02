@@ -1,5 +1,6 @@
 # VentasCine
 Este programa consiste en un simulador de ventas para un cine mendiante condigos QR, los cuales se envian a los clientes mediante mensaje de WhatsApp
+
 Utilizando la programacion orientada a objetos
 
 # usos
